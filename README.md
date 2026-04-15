@@ -30,8 +30,7 @@ ________________________________________
 	•	Total Sales by Sales Manager
 	•	Total Sales by Sales Representatives   
 	________________________________________
-📈 Dashboard
-<img width="1508" height="757" alt="Screenshot 2026-04-15 115008" src="https://github.com/user-attachments/assets/3ae36997-1099-4f36-a692-fdeb25455c63" />
+
 
 ________________________________________
 🔍 Key Insights
@@ -44,3 +43,5 @@ ________________________________________
 ________________________________________
 ribution👩‍💻 Author
 Ahmed Elsayed Tawfik Elgendy– Data Analyst
+📈 Dashboard
+<img width="1508" height="757" alt="Screenshot 2026-04-15 115008" src="https://github.com/user-attachments/assets/3ae36997-1099-4f36-a692-fdeb25455c63" />
