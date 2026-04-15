@@ -1,18 +1,21 @@
 # sales_performance
 📊 Student Data Analysis Project
 📌 Project Overview
-This project focuses on analyzing sales performance data to provide clear insights into revenue, quantity sold, and performance across different managers, sales representatives, and regions.________________________________________
+This project focuses on analyzing sales performance data to provide clear insights into revenue, quantity sold, and performance across different managers, sales representatives, and regions.
+________________________________________
 🛠 Tools Used
-            •          Microsoft Excel
+    •   Microsoft Excel
 	•	Pivot Tables
 	•	Pivot Charts
-	•	Dashboard Design________________________________________
+	•	Dashboard Design
+	________________________________________
 📂 Project Steps
 	1•	Data Cleaning and Preparation
 	2•	Data Modeling using Pivot Tables
 	3•	Creating KPIs (Total Sales, Avg Sales, Total Quantity)
 	4•	Building Interactive Dashboard with Filters
-	5•	Visualizing Data باستخدام Charts________________________________________
+	5•	Visualizing Data باستخدام Charts
+	________________________________________
 📊 Key Questions
 	•	KPIs:
 	•	Total Sales: $9,347,092.49
@@ -25,7 +28,8 @@ This project focuses on analyzing sales performance data to provide clear insigh
 	•	Total Sales by Production Line & Line Manager
 	•	Contribution of Sales by Country
 	•	Total Sales by Sales Manager
-	•	Total Sales by Sales Representatives________________________________________
+	•	Total Sales by Sales Representatives   
+	________________________________________
 📈 Dashboard
 <img width="1508" height="757" alt="Screenshot 2026-04-15 115008" src="https://github.com/user-attachments/assets/3ae36997-1099-4f36-a692-fdeb25455c63" />
 
@@ -37,6 +41,6 @@ ________________________________________
 •	There is a noticeable variation in performance among Sales Representatives. 
 •	Overall performance is influenced by both management effectiveness and distribution efficiency.
 
-________________________________________ribution
-👩‍💻 Author
+________________________________________
+ribution👩‍💻 Author
 Ahmed Elsayed Tawfik Elgendy– Data Analyst
