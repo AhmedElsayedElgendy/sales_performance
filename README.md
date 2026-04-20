@@ -1,46 +1,44 @@
-# sales_performance
-📊 Student Data Analysis Project
-📌 Project Overview
-This project focuses on analyzing sales performance data to provide clear insights into revenue, quantity sold, and performance across different managers, sales representatives, and regions.
-________________________________________
-🛠 Tools Used
-    •   Microsoft Excel
-	•	Pivot Tables
-	•	Pivot Charts
-	•	Dashboard Design
-	________________________________________
-📂 Project Steps
-	1•	Data Cleaning and Preparation
-	2•	Data Modeling using Pivot Tables
-	3•	Creating KPIs (Total Sales, Avg Sales, Total Quantity)
-	4•	Building Interactive Dashboard with Filters
-	5•	Visualizing Data باستخدام Charts
-	________________________________________
-📊 Key Questions
-	•	KPIs:
-	•	Total Sales: $9,347,092.49
-	•	Overall Average Sales: $3,115,697.5
-	•	Total Quantity: 200,505.71
-	•	Filters:
-	•	Year (2018 – 2020)
-	•	Sales Manager
-	•	Visualizations:
-	•	Total Sales by Production Line & Line Manager
-	•	Contribution of Sales by Country
-	•	Total Sales by Sales Manager
-	•	Total Sales by Sales Representatives   
-	________________________________________
+#Sales_Performance 📊  
 
+Student Data Analysis Project  
 
-________________________________________
-🔍 Key Insights
-      •	 Here is a clear and professional English version of your points:
-•	Some managers achieve significantly higher sales than others. 
-•	Cairo contributes the largest share of total sales. 
-•	There is a noticeable variation in performance among Sales Representatives. 
-•	Overall performance is influenced by both management effectiveness and distribution efficiency.
+📌 Project Overview  
+This project analyzes sales performance data to generate insights on revenue, quantity sold, and performance across managers, sales representatives, and regions.  
 
-________________________________________
+🛠 Tools Used  
+• Microsoft Excel  
+• Pivot Tables & Pivot Charts  
+• Dashboard Design  
+
+📂 Project Steps  
+1. Data Cleaning & Preparation  
+2. Data Modeling using Pivot Tables  
+3. Creating KPIs (Total Sales, Average Sales, Total Quantity)  
+4. Building an Interactive Dashboard with Filters  
+5. Data Visualization using Charts  
+
+📊 Key Metrics (KPIs)  
+• Total Sales: $9,347,092.49  
+• Average Sales: $3,115,697.5  
+• Total Quantity: 200,505.71  
+
+🎯 Filters Applied  
+• Year (2018 – 2020)  
+• Sales Manager  
+
+📈 Visualizations Included  
+• Total Sales by Product Line & Line Manager  
+• Sales Contribution by Country  
+• Total Sales by Sales Manager  
+• Total Sales by Sales Representatives  
+
+🔍 Key Insights  
+• Some managers significantly outperform others in sales  
+• Cairo contributes the largest share of total sales  
+• Noticeable variation among sales representatives  
+• Performance is driven by both management effectiveness and distribution efficiency  
+
+---
 ribution👩‍💻 Author
 Ahmed Elsayed Tawfik Elgendy– Data Analyst
 📈 Dashboard
